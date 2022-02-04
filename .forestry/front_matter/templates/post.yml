@@ -36,7 +36,8 @@ fields:
   default: []
   label: Authors
 - name: category
-  type: tag_list
-  default: []
+  type: text
+  config:
+    required: false
   label: Category
-  description: category
+  description: category of field
