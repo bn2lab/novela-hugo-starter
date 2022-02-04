@@ -8,6 +8,6 @@ authors:
 - Endy Austin
 
 ---
-It's all about being a badass. 
+It's all about being a badass.
 
 > Having that awesome new life will go a long way. You need it.
