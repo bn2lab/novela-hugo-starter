@@ -1,12 +1,11 @@
 ---
-title: Bn2 Lab - Why we built a company before building a product and why it worked
-date: 2017-04-30
+title: Bn2 Lab - Feb Revelation
+date: 2022-02-03T05:00:00+00:00
 hero: "/images/hero-6.jpg"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 3
-authors:
-- Thiago Costa
+authors: []
 
 ---
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
