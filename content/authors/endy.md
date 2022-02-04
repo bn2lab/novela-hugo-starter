@@ -1,5 +1,5 @@
 ---
-title: 'Endy '
+title: Endy Austin
 bio: Writer / Teacher / Developer
 avatar: ''
 social: []
