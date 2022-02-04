@@ -13,3 +13,5 @@ category:
 It's all about being a badass.
 
 > Having that awesome new life will go a long way. You need it.
+
+New enough.
