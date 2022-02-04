@@ -1,7 +1,7 @@
 ---
 baseURL: https://bn2lab.com
 languageCode: en-us
-title: Bn2 Lab | Home
+title: Bn2 Lab
 pygmentsstyle: monokai
 metaDataFormat: yaml
 module:
