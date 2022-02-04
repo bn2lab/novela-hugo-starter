@@ -6,4 +6,6 @@ seo:
   image: "/images/art-more-important-than-math.jpg"
 
 ---
-You don't have to go it alone.
+> You don't have to go it alone.
+
+Get help from people who've mastered the journey.
