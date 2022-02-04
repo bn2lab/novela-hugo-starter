@@ -1,8 +1,9 @@
 ---
 hero:
-  heading: Welcome to Bn2 Lab, the simplest way to get ahead in school.
+  heading: Welcome to Bn2 Lab. Everything you need to know about excelling in college.
+    And right after graduation.
   maxWidthPX: "652"
 seo:
-  image: "/images/android-chrome-512x512.png"
+  image: "/images/hero-2.png"
 
 ---
