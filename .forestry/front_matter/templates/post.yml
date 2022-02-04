@@ -35,8 +35,3 @@ fields:
   type: tag_list
   default: []
   label: Authors
-- name: category
-  type: tag_list
-  default: []
-  label: Category
-  description: category of topic
