@@ -1,7 +1,7 @@
 ---
-title: Developer
-bio: 'A home for new and junior developers '
-avatar: "/images/eat-sleep-code.jpeg"
+title: Dennis Brotzky
+bio: Musings by Dennis.
+avatar: ''
 featured: false
 social:
 - title: Twitter
