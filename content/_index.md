@@ -1,11 +1,8 @@
 ---
 hero:
-  heading: 'Bn2 Lab: Everything-ish you need to be n2 school + life.'
+  heading: 'Bn2 Lab: Everything-ish you need to get ahead in school + life.'
   maxWidthPX: "652"
 seo:
   image: "/images/art-more-important-than-math.jpg"
 
 ---
-> You don't have to go it alone.
-
-Get help from people who've mastered the journey.
