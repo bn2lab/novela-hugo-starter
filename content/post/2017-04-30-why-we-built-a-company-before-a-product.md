@@ -9,6 +9,7 @@ authors:
 - Endy Austin
 category:
 - College
+draft: true
 
 ---
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
