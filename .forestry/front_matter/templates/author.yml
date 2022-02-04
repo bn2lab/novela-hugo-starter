@@ -43,3 +43,5 @@ fields:
   default: []
   description: Category of post
   label: Category
+pages:
+- content/authors/endy-austin/endy-austin.md
