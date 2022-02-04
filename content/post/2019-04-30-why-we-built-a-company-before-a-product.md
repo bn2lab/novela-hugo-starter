@@ -5,7 +5,7 @@ hero: "/images/beat-procrastination.jpeg"
 excerpt: Except for 2022 is here
 timeToRead: 3
 authors:
-- Endy Austin
+- Thiago Costa
 category:
 - College
 
