@@ -2,7 +2,9 @@
 title: Endy Austin
 bio: Writer / Teacher / Developer
 avatar: ''
-social: []
+social:
+- title: Twitter
+  url: https://twitter.com/collegelytical
 featured: false
 draft: true
 
