@@ -6,6 +6,8 @@ excerpt: Except for 2022 is here
 timeToRead: 3
 authors:
 - Endy Austin
+category:
+- College
 
 ---
 It's all about being a badass.
