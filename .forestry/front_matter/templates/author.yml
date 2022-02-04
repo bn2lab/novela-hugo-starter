@@ -44,5 +44,4 @@ fields:
   description: Category of post
   label: Category
 pages:
-- content/authors/developer.md
 - content/authors/endy.md
