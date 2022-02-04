@@ -1,7 +1,6 @@
 ---
 hero:
-  heading: Bn2 Lab - teaching everything-ish to excel in college. And right after
-    graduation.
+  heading: Welcome to Bn2 Lab.
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
