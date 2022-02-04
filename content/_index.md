@@ -1,6 +1,7 @@
 ---
 hero:
-  heading: Everything you need to be n2 school + life.
+  heading: Welcome to Bn2 Lab. Teaching everything-ish you need to be n2 school +
+    life.
   maxWidthPX: "652"
 seo:
   image: "/images/art-more-important-than-math.jpg"
