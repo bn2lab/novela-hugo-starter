@@ -1,5 +1,5 @@
 ---
-title: 'Bn2 Again: A story of why Forestry loves Hugo'
+title: 'Yippee Yay: A story of why Forestry loves Hugo'
 date: 2022-02-03T15:03:00+00:00
 hero: "/images/hero-3.jpg"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
