@@ -4,6 +4,6 @@ hero:
     And right after graduation.
   maxWidthPX: "652"
 seo:
-  image: "/images/hero-2.png"
+  image: "/images/art-more-important-than-math.jpg"
 
 ---
