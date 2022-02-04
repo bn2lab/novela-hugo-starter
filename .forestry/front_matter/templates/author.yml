@@ -16,11 +16,6 @@ fields:
     schema:
       format: markdown
   label: Bio
-- name: avatar
-  type: file
-  config:
-    maxSize: 250
-  label: Avatar Image
 - name: social
   type: field_group_list
   fields:
@@ -43,6 +38,11 @@ fields:
   type: boolean
   label: Featured Author
   description: Feature this author on the home page
+- name: category
+  type: tag_list
+  default: []
+  description: Category of post
+  label: Category
 pages:
 - content/authors/developer.md
 - content/authors/endy.md
