@@ -7,7 +7,7 @@ excerpt: Creating a new website for Hopper, one of the top 4 most downloaded tra
 timeToRead: 8
 authors:
 - Dennis Brotzky
-- Endy Austin
+- Thiago Costa
 category: Developer
 
 ---
