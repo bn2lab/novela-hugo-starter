@@ -6,6 +6,5 @@ social:
 - title: Twitter
   url: https://twitter.com/collegelytical
 featured: false
-draft: true
 
 ---
