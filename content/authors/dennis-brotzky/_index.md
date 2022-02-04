@@ -4,7 +4,7 @@ bio: Musings by Dennis.
 avatar: ''
 featured: false
 social:
-- title: Twitter
+- title: github
   url: https://twitter.com/collegelytical
 
 ---
