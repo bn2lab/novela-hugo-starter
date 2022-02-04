@@ -16,6 +16,12 @@ fields:
     schema:
       format: markdown
   label: Bio
+- name: avatar
+  type: file
+  config:
+    maxSize: 64
+  label: Avatar
+  description: avatar
 - name: social
   type: field_group_list
   fields:
