@@ -7,6 +7,8 @@ excerpt: Creating a new website for Hopper, one of the top 4 most downloaded tra
 timeToRead: 3
 authors:
 - Endy Austin
+category:
+- College
 
 ---
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
