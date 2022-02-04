@@ -10,6 +10,8 @@ social:
   url: https://github.com/bn2lab/bn2lab
 - title: github
   url: https://github.com/bn2lab/bn2lab
+- title: github
+  url: https://github.com/bn2lab/bn2lab
 featured: false
 draft: true
 
