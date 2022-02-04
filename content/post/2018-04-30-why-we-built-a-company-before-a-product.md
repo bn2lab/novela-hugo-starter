@@ -1,6 +1,6 @@
 ---
-title: Bn2 - Why we built a company before building a platform
-date: 2022-02-03T03:57:00+00:00
+title: Whaaaaa?!? Why we built a company before building a platform
+date: 2022-02-04T03:57:00+00:00
 hero: "/images/hero-6.jpg"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
