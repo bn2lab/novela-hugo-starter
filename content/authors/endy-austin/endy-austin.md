@@ -1,6 +1,6 @@
 ---
 category: []
-title: Endy Austin
+title: College
 bio: Teacher
 avatar: "/images/art-more-important-than-math.jpg"
 social:
